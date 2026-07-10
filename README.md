@@ -1,4 +1,6 @@
 # Supply Chain & Logistics Dashboard (Power BI)
+
+![](https://github.com/AkashSharma-Artist/Supply-Chain-Logistics-Dashboard-Power-BI-/blob/main/ChatGPT%20Image%20Jul%2010%2C%202026%2C%2007_34_02%20PM.png)
  
 A comprehensive, multi-page Power BI dashboard built to monitor and analyze 
 end-to-end supply chain performance. The report covers everything from supplier 
@@ -88,3 +90,9 @@ Perfect Order % and Profit Margin %) shows the ability to translate raw
 transactional data into metrics that matter for supply chain decision-making. 
 Overall, this project reflects strong end-to-end Power BI capability — data 
 modeling, DAX, and multi-page UX design — applied to a real operational domain.
+
+![]()
+![]()
+![]()
+![]()
+![]()

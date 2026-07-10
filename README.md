@@ -91,8 +91,9 @@ transactional data into metrics that matter for supply chain decision-making.
 Overall, this project reflects strong end-to-end Power BI capability — data 
 modeling, DAX, and multi-page UX design — applied to a real operational domain.
 
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/AkashSharma-Artist/Supply-Chain-Logistics-Dashboard-Power-BI-/blob/main/Screenshot%202026-03-30%20122314.png)
+![](https://github.com/AkashSharma-Artist/Supply-Chain-Logistics-Dashboard-Power-BI-/blob/main/Screenshot%202026-03-30%20123910.png)
+![](https://github.com/AkashSharma-Artist/Supply-Chain-Logistics-Dashboard-Power-BI-/blob/main/Screenshot%202026-03-30%20123931.png)
+![](https://github.com/AkashSharma-Artist/Supply-Chain-Logistics-Dashboard-Power-BI-/blob/main/Screenshot%202026-03-30%20124539.png)
+![](https://github.com/AkashSharma-Artist/Supply-Chain-Logistics-Dashboard-Power-BI-/blob/main/Screenshot%202026-03-30%20124604.png)
+![](https://github.com/AkashSharma-Artist/Supply-Chain-Logistics-Dashboard-Power-BI-/blob/main/Screenshot%202026-03-30%20125455.png)
